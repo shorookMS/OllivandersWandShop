@@ -4,14 +4,15 @@
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  height: 130px;
 }
 
 .App-header {
-  background-color: #222;
+  background-color: #333434;
   height: 150px;
   padding: 20px;
   color: white;
+  font-family: "Forum", cursive;
 }
 
 .App-title {
@@ -20,9 +21,5 @@
 
 .App-intro {
   font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  font-family: "Forum", cursive;
 }
